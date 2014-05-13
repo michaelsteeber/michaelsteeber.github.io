@@ -1,1 +1,0 @@
-RedirectMatch 301 ^/post/(.*)$ http://blog.michaelsteeber.com/post/$1
