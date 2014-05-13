@@ -3,5 +3,5 @@
 setTransparentGifURL('Media/transparent.gif');function hostedOnDM()
 {return false;}
 function onPageLoad()
-{loadMozillaCSS('light_files/lightMoz.css')
+{loadMozillaCSS('index_files/indexMoz.css')
 adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');fixAllIEPNGs('Media/transparent.gif');performPostEffectsFixups()}
